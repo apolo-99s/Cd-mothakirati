@@ -1,0 +1,11 @@
+flutter_mothakarati_complete/
+├── lib/
+│   ├── main.dart
+│   ├── models/models.dart
+│   ├── services/supabase_service.dart
+│   ├── screens/auth/auth_screen.dart
+│   ├── screens/student/student_home_screen.dart
+│   ├── widgets/widgets.dart
+│   └── utils/theme.dart
+└── pubspec.yaml
+
